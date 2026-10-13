@@ -1,5 +1,7 @@
 # AI-Based Industrial Defect Detection System
 
+ > **Status: project proposal / planning.** This repository currently contains the project specification only. Model training, the API, the web interface and the directory layout described below are planned work, not a shipped implementation. No model evaluation results are published yet.
+
 ## Diploma Project
 
 **Group:** IT3-2401AI
